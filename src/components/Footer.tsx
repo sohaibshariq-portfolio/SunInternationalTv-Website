@@ -74,7 +74,7 @@ export const Footer = () => {
               </div>
             </div>
             <p className="text-sm text-primary-foreground/80 mb-4">
-              Your trusted source for breaking news, analysis, and in-depth reporting from around the world.
+              Your trusted source for breaking news, analysis, and in-depth reporting from around Pakistan.
             </p>
             <div className="flex gap-3">
               <a
