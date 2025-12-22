@@ -42,10 +42,10 @@ export const Header = () => {
           {/* Logo */}
           <NavLink to="/" className="flex items-center gap-2">
             <div className="w-10 h-10 bg-accent rounded flex items-center justify-center">
-              <span className="text-accent-foreground font-bold text-xl">N</span>
+              <span className="text-accent-foreground font-bold text-xl">s</span>
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-primary">NewsHub</h1>
+              <h1 className="text-2xl font-bold text-primary">Sun International Tv</h1>
               <p className="text-xs text-muted-foreground">Breaking News 24/7</p>
             </div>
           </NavLink>
