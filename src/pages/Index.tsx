@@ -10,8 +10,8 @@ const Index = () => {
     title: "Sun International Tv - Breaking News 24/7",
     description:
       "Spark Media Tv Productions Publication and Marketing Group INT",
-    category: "World",
-    image: "https://images.unsplash.com/photo-1569163139394-de4798aa62b6?w=1200&h=800&fit=crop",
+    category: "",
+    image: "https://i.postimg.cc/C5Vn1pyX/channels4-banner.jpg",
     time: "2 hours ago",
   };
 
