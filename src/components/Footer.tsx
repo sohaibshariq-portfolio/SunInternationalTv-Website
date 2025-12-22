@@ -78,7 +78,7 @@ export const Footer = () => {
             </p>
             <div className="flex gap-3">
               <a
-                href="#"
+                href="https://www.facebook.com/profile.php?id=61584132834560"
                 className="w-9 h-9 rounded-full bg-primary-foreground/10 hover:bg-accent flex items-center justify-center transition-colors"
               >
                 <Facebook className="h-4 w-4" />
@@ -90,13 +90,13 @@ export const Footer = () => {
                 <Twitter className="h-4 w-4" />
               </a>
               <a
-                href="#"
+                href="https://www.instagram.com/sun_international.tv/"
                 className="w-9 h-9 rounded-full bg-primary-foreground/10 hover:bg-accent flex items-center justify-center transition-colors"
               >
                 <Instagram className="h-4 w-4" />
               </a>
               <a
-                href="#"
+                href="https://www.youtube.com/@suninternational.tvdigital"
                 className="w-9 h-9 rounded-full bg-primary-foreground/10 hover:bg-accent flex items-center justify-center transition-colors"
               >
                 <Youtube className="h-4 w-4" />
