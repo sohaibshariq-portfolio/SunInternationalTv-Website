@@ -69,7 +69,7 @@ export const Footer = () => {
                 <span className="text-accent-foreground font-bold text-xl">N</span>
               </div>
               <div>
-                <h2 className="text-xl font-bold">NewsHub</h2>
+                <h2 className="text-xl font-bold">Sun International Tv</h2>
                 <p className="text-xs text-primary-foreground/70">Breaking News 24/7</p>
               </div>
             </div>
@@ -126,7 +126,7 @@ export const Footer = () => {
 
         {/* Copyright */}
         <div className="pt-8 border-t border-primary-foreground/20 text-center text-sm text-primary-foreground/70">
-          <p>© {new Date().getFullYear()} NewsHub. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Sun International Tv. All rights reserved.</p>
         </div>
       </div>
     </footer>
