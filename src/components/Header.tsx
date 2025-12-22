@@ -3,6 +3,7 @@ import { Search, Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { NavLink } from "@/components/NavLink";
+import logo2 from "@/assets/logo2.png";
 
 export const Header = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -41,9 +42,7 @@ export const Header = () => {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <NavLink to="/" className="flex items-center gap-2">
-            <div className="w-10 h-10 bg-accent rounded flex items-center justify-center">
-              <span className="text-accent-foreground font-bold text-xl">s</span>
-            </div>
+            <img src={logo2} alt="Sun International Tv" className="h-10 w-auto" />
             <div>
               <h1 className="text-2xl font-bold text-primary">Sun International Tv</h1>
               <p className="text-xs text-muted-foreground">Breaking News 24/7</p>
