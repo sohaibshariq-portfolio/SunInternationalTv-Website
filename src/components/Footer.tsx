@@ -17,23 +17,23 @@ export const Footer = () => {
       ],
     },
     {
-      title: "About Us",
+      title: "Contact Us",
       links: [
-        { name: "Our Story", path: "/about" },
-        { name: "Editorial Team", path: "/team" },
-        { name: "Careers", path: "/careers" },
-        { name: "Contact Us", path: "/contact" },
+        { name: "suninternational.tv@gmail.com", path: "" },
+        { name: "+92 315 0229859", path: "" },
+        // { name: "Careers", path: "/careers" },
+        // { name: "Contact Us", path: "/contact" },
       ],
     },
-    {
-      title: "Resources",
-      links: [
-        { name: "Privacy Policy", path: "/privacy" },
-        { name: "Terms of Service", path: "/terms" },
-        { name: "Cookie Policy", path: "/cookies" },
-        { name: "Sitemap", path: "/sitemap" },
-      ],
-    },
+    // {
+    //   title: "Resources",
+    //   links: [
+    //     { name: "Privacy Policy", path: "/privacy" },
+    //     { name: "Terms of Service", path: "/terms" },
+    //     { name: "Cookie Policy", path: "/cookies" },
+    //     { name: "Sitemap", path: "/sitemap" },
+    //   ],
+    // },
   ];
 
   return (
