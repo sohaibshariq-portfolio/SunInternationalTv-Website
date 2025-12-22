@@ -7,9 +7,9 @@ import { TrendingUp, Video } from "lucide-react";
 
 const Index = () => {
   const featuredNews = {
-    title: "Global Climate Summit Reaches Historic Agreement on Emissions",
+    title: "Sun International Tv - Breaking News 24/7",
     description:
-      "World leaders unite to commit to ambitious carbon reduction targets, marking a turning point in the fight against climate change.",
+      "Spark Media Tv Productions Publication and Marketing Group INT",
     category: "World",
     image: "https://images.unsplash.com/photo-1569163139394-de4798aa62b6?w=1200&h=800&fit=crop",
     time: "2 hours ago",
