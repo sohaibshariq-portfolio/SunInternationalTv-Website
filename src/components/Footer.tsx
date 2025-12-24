@@ -2,6 +2,7 @@ import { Facebook, Twitter, Instagram, Youtube, Mail } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { NavLink } from "@/components/NavLink";
+import logo2 from "@/assets/logo2.png";
 
 export const Footer = () => {
   const sections = [
@@ -19,8 +20,8 @@ export const Footer = () => {
     {
       title: "Contact Us",
       links: [
-        { name: "suninternational.tv@gmail.com", path: "" },
-        { name: "+92 315 0229859", path: "" },
+        { name: "suninternationaltv@gmail.com", path: "" },
+        { name: "sparkinternationaltv@gmail.com", path: "" },
         // { name: "Careers", path: "/careers" },
         // { name: "Contact Us", path: "/contact" },
       ],
