@@ -66,7 +66,7 @@ export const Footer = () => {
           {/* Brand Column */}
           <div>
             <div className="flex items-center gap-2 mb-4">
-              <img src="/logo2.png" alt="Sun International Tv" className="h-10 w-auto" />
+            <img src={logo2} alt="Sun International Tv" className="h-10 w-auto" />
               <div>
                 <h2 className="text-xl font-bold">Sun International Tv</h2>
                 <p className="text-xs text-primary-foreground/70">Breaking News 24/7</p>
